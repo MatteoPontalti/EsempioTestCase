@@ -1,5 +1,5 @@
 {
-  "name": "applicationskeleton",
+  "name": "sommadiarray",
   "version": "1.0.0",
   "main": "index.js",
   "jest": {
@@ -24,8 +24,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MatteoPontalti/EsempioTest.git"
+    "url": "git+https://github.com/MatteoPontalti/EsempioTestCase.git"
   },
-  "homepage": "https://github.com/MatteoPontalti/EsempioTest#readme",
-  "description": ""
+  "homepage": "https://github.com/MatteoPontalti/EsempioTestCase#readme",
+  "description": "``` npm install ```",
+  "bugs": {
+    "url": "https://github.com/MatteoPontalti/EsempioTestCase/issues"
+  }
 }
